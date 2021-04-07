@@ -1,2 +1,2 @@
-# car-game-pt1
-car game 1
+# synchronousBallMovement
+Ball moving synchronously
